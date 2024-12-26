@@ -9,29 +9,42 @@ I'm a Web Developer passionate about building scalable applications with modern 
 - **FullStack Web Developer** - Freelence at Ekko Software -- 05.2022. - In process
 
 ## 📚 Skills
-#Frontend
-- HTML and CSS
+# Frontend Web Development
+- HTML
+- CSS (Tailwind, Bootstrap)
 - Javascript
 - React
 - Vue
+- JQuery
+- CMS - WordPress
 - Json
 - API
 - Responsive and SEO
+- Progressive web apps
 
-#Backend
+# Backend
 - PHP
 - Laravel
 
-#Databases
-- MySQL
+# Databases
+- SQL
 
-#Also
+# Other Skills
 - Figma
 - Adobe Photoshop (Basic)
 - Slack
 - Trello
-- Git
+- Git & GitHub
 - Manual QA
+- App Performance
+- Lighthouse (Google)
+
+# Soft Skills
+- Communication and teamwork
+- Time management
+- Responsibility
+- Attention to details
+- Approaching the problem and solving the problem
 
 ## 📂 Projects
 - You can see some of my projects on my portfolio site or in the github repositories. Some projects will not be shown due to project privacy policies for clients I have worked for.
