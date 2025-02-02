@@ -25,6 +25,7 @@ I'm a Web Developer passionate about building scalable applications with modern 
 # Backend
 - PHP
 - Laravel
+- Node.js
 
 # Databases
 - SQL
